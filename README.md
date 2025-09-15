@@ -43,5 +43,5 @@ This project follows a 5-day structured plan to analyze sales and customer data,
 
 
 ## ▶️ Run the Notebook in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUsername/Product-Customer-Analysis/blob/main/notebooks/Product_Customer_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aditri-Sharma-09/Product-Customer-Segmentation-Analysis/blob/main/notebooks/Product and Customer Segmentation Analysis.ipynb)
 
